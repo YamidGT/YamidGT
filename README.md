@@ -22,8 +22,8 @@
 ---
 
 ## 📊 Mis estadísticas en GitHub
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=default)  
-![Top lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YamidGT&show_icons=true&theme=default)  
+![Top lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=YamidGT&layout=compact)
 
 ---
 
