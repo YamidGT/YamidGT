@@ -12,17 +12,24 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-
 ---
 
 ## 🧠 Actualmente estoy aprendiendo sobre:
 - 🔍 **Machine Learning y Ciencia de Datos**
 - 🛡️ **Ciberseguridad ofensiva y defensiva**
 - 🌐 **Desarrollo**
+
+---
+
+## 📊 Mis estadísticas en GitHub
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=default)  
+![Top lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact)
+
 ---
 
 ## 📫 Cómo contactarme
 - ✉️ **Correo:** yagonzalez@unal.edu.co
+
 ---
 
 ### ¡Gracias por visitar mi perfil! ⭐
