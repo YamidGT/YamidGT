@@ -17,9 +17,9 @@
 ---
 
 ## 🧠 Actualmente estoy aprendiendo sobre:
-- 🔍 **Machine Learning y Ciencia de Datos**
 - 🛡️ **Ciberseguridad ofensiva y defensiva**
 - 🌐 **Desarrollo**
+- 🔍 **Machine Learning y Ciencia de Datos**
 
 ---
 
