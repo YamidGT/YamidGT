@@ -22,6 +22,8 @@ Soy **Yamid Alfonso González Torres**, estudiante de **Ingeniería de Sistemas*
 - 🌐 **Desarrollo de software**, del backend al frontend
 - 🎨 **Arte generativo y computación creativa** (matemáticas + código)
 
+> ⚡ **De ecuaciones diferenciales a pentesting:** en menos de 11 meses construí 8 proyectos originales en 4 lenguajes distintos (Python, C, HTML, Processing), moviéndome entre IA aplicada a salud, ciberseguridad ofensiva y arte generativo matemático.
+
 ---
 
 ## 🛠️ Tecnologías y herramientas
