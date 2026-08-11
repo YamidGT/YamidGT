@@ -80,7 +80,7 @@ Soy **Yamid Alfonso González Torres**, estudiante de **Ingeniería de Sistemas*
 <tr>
 <td>
 
-[![fourier-epicycles-heart](https://github-readme-stats.vercel.app/api/pin/?username=YamidGT&repo=fourier-epicycles-heart&theme=tokyonight)](https://github.com/YamidGT/fourier-epicycles-heart)
+[![fourier-epicycles-heart](https://github-readme-stats.vercel.app/api/pin/?username=YamidGT&repo=fourier-epicycles-heart&theme=graywhite)](https://github.com/YamidGT/fourier-epicycles-heart)
 
 </td>
 <td>
