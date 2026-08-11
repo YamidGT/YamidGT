@@ -74,50 +74,14 @@ Soy **Yamid Alfonso González Torres**, estudiante de **Ingeniería de Sistemas*
 
 ## 🚀 Proyectos destacados
 
-<div align="center">
-
-<table>
-<tr>
-<td>
-
-[![fourier-epicycles-heart](https://github-readme-stats.vercel.app/api/pin/?username=YamidGT&repo=fourier-epicycles-heart&theme=tokyonight&show_icons=false)](https://github.com/YamidGT/fourier-epicycles-heart)
-
-</td>
-<td>
-
-[![Multimodal-Deep-Learning](https://github-readme-stats.vercel.app/api/pin/?username=YamidGT&repo=Multimodal-Deep-Learning-Radiographs-Clinical-Parameters&theme=tokyonight)](https://github.com/YamidGT/Multimodal-Deep-Learning-Radiographs-Clinical-Parameters)
-
-</td>
-</tr>
-<tr>
-<td>
-
-[![Hack-The-Box-CTF-s-Organizer](https://github-readme-stats.vercel.app/api/pin/?username=YamidGT&repo=Hack-The-Box-CTF-s-Organizer&theme=tokyonight)](https://github.com/YamidGT/Hack-The-Box-CTF-s-Organizer)
-
-</td>
-<td>
-
-[![Fondo-de-pantalla-ciclo-del-cielo](https://github-readme-stats.vercel.app/api/pin/?username=YamidGT&repo=Fondo-de-pantalla-ciclo-del-cielo&theme=tokyonight)](https://github.com/YamidGT/Fondo-de-pantalla-ciclo-del-cielo)
-
-</td>
-</tr>
-<tr>
-<td>
-
-[![Procedural-Texture](https://github-readme-stats.vercel.app/api/pin/?username=YamidGT&repo=Procedural-Texture---Escenario-de-pollitos&theme=tokyonight)](https://github.com/YamidGT/Procedural-Texture---Escenario-de-pollitos)
-
-</td>
-<td>
-
-[![piano-tiles-TD-P3](https://github-readme-stats.vercel.app/api/pin/?username=YamidGT&repo=piano-tiles-TD-P3&theme=tokyonight)](https://github.com/YamidGT/piano-tiles-TD-P3)
-
-</td>
-</tr>
-</table>
-
-</div>
-
-> 💡 **fourier-epicycles-heart** — un corazón reconstruido con series de Fourier usando epiciclos. **Procedural-Texture---Escenario-de-pollitos** — un modelo de reacción-difusión de Turing (Gray-Scott) en Processing aplicado a una escena 3D. **Hack-The-Box-CTF-s-Organizer** — organizador de retos CTF con dificultad, tags, notas y filtros.
+| Proyecto | Descripción | Lenguaje |
+|---|---|---|
+| [**fourier-epicycles-heart**](https://github.com/YamidGT/fourier-epicycles-heart) | Un corazón reconstruido con series de Fourier usando epiciclos | ![Lang](https://img.shields.io/github/languages/top/YamidGT/fourier-epicycles-heart?style=flat&color=7c3aed&label=%20) |
+| [**Multimodal-Deep-Learning**](https://github.com/YamidGT/Multimodal-Deep-Learning-Radiographs-Clinical-Parameters) | Deep learning multimodal con radiografías y parámetros clínicos | ![Lang](https://img.shields.io/github/languages/top/YamidGT/Multimodal-Deep-Learning-Radiographs-Clinical-Parameters?style=flat&color=7c3aed&label=%20) |
+| [**Hack-The-Box-CTF-s-Organizer**](https://github.com/YamidGT/Hack-The-Box-CTF-s-Organizer) | Organizador de retos CTF con dificultad, tags, notas y filtros | ![Lang](https://img.shields.io/github/languages/top/YamidGT/Hack-The-Box-CTF-s-Organizer?style=flat&color=7c3aed&label=%20) |
+| [**Fondo-de-pantalla-ciclo-del-cielo**](https://github.com/YamidGT/Fondo-de-pantalla-ciclo-del-cielo) | Fondo de pantalla generativo del ciclo del cielo | ![Lang](https://img.shields.io/github/languages/top/YamidGT/Fondo-de-pantalla-ciclo-del-cielo?style=flat&color=7c3aed&label=%20) |
+| [**Procedural-Texture**](https://github.com/YamidGT/Procedural-Texture---Escenario-de-pollitos) | Reacción-difusión de Turing (Gray-Scott) en Processing aplicado a una escena 3D | ![Lang](https://img.shields.io/github/languages/top/YamidGT/Procedural-Texture---Escenario-de-pollitos?style=flat&color=7c3aed&label=%20) |
+| [**piano-tiles-TD-P3**](https://github.com/YamidGT/piano-tiles-TD-P3) | Juego estilo piano tiles | ![Lang](https://img.shields.io/github/languages/top/YamidGT/piano-tiles-TD-P3?style=flat&color=7c3aed&label=%20) |
 
 ---
 
@@ -125,12 +89,12 @@ Soy **Yamid Alfonso González Torres**, estudiante de **Ingeniería de Sistemas*
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=YamidGT&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YamidGT&layout=compact&theme=tokyonight&hide_border=true"/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YamidGT&theme=tokyonight&hide_border=true" alt="streak stats"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=YamidGT&theme=algolia&no-frame=true&row=1&column=6" alt="trophies"/>
+[![Repos públicos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/YamidGT&label=Repositorios&query=public_repos&color=7c3aed&style=flat)](https://github.com/YamidGT?tab=repositories)
+[![Seguidores](https://img.shields.io/github/followers/YamidGT?label=Seguidores&style=flat&color=7c3aed)](https://github.com/YamidGT?tab=followers)
+
+> Estadísticas completas (contribuciones, top languages, trofeos) temporalmente no disponibles: el servicio público [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) y [github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) están caídos por límites de uso en su instancia demo gratuita de Vercel. Verás el detalle completo directamente en [github.com/YamidGT](https://github.com/YamidGT).
 
 </div>
 
