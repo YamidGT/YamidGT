@@ -76,12 +76,12 @@ Soy **Yamid Alfonso González Torres**, estudiante de **Ingeniería de Sistemas*
 
 | Proyecto | Descripción | Lenguaje |
 |---|---|---|
-| [**fourier-epicycles-heart**](https://github.com/YamidGT/fourier-epicycles-heart) | Un corazón reconstruido con series de Fourier usando epiciclos | ![Lang](https://img.shields.io/github/languages/top/YamidGT/fourier-epicycles-heart?style=flat&color=7c3aed&label=%20) |
-| [**Multimodal-Deep-Learning**](https://github.com/YamidGT/Multimodal-Deep-Learning-Radiographs-Clinical-Parameters) | Deep learning multimodal con radiografías y parámetros clínicos | ![Lang](https://img.shields.io/github/languages/top/YamidGT/Multimodal-Deep-Learning-Radiographs-Clinical-Parameters?style=flat&color=7c3aed&label=%20) |
-| [**Hack-The-Box-CTF-s-Organizer**](https://github.com/YamidGT/Hack-The-Box-CTF-s-Organizer) | Organizador de retos CTF con dificultad, tags, notas y filtros | ![Lang](https://img.shields.io/github/languages/top/YamidGT/Hack-The-Box-CTF-s-Organizer?style=flat&color=7c3aed&label=%20) |
-| [**Fondo-de-pantalla-ciclo-del-cielo**](https://github.com/YamidGT/Fondo-de-pantalla-ciclo-del-cielo) | Fondo de pantalla generativo del ciclo del cielo | ![Lang](https://img.shields.io/github/languages/top/YamidGT/Fondo-de-pantalla-ciclo-del-cielo?style=flat&color=7c3aed&label=%20) |
-| [**Procedural-Texture**](https://github.com/YamidGT/Procedural-Texture---Escenario-de-pollitos) | Reacción-difusión de Turing (Gray-Scott) en Processing aplicado a una escena 3D | ![Lang](https://img.shields.io/github/languages/top/YamidGT/Procedural-Texture---Escenario-de-pollitos?style=flat&color=7c3aed&label=%20) |
-| [**piano-tiles-TD-P3**](https://github.com/YamidGT/piano-tiles-TD-P3) | Juego estilo piano tiles | ![Lang](https://img.shields.io/github/languages/top/YamidGT/piano-tiles-TD-P3?style=flat&color=7c3aed&label=%20) |
+| [**fourier-epicycles-heart**](https://github.com/YamidGT/fourier-epicycles-heart) | Un corazón reconstruido con series de Fourier usando epiciclos | ![Lang](https://img.shields.io/badge/HTML-7c3aed?style=flat) |
+| [**Multimodal-Deep-Learning**](https://github.com/YamidGT/Multimodal-Deep-Learning-Radiographs-Clinical-Parameters) | Deep learning multimodal con radiografías y parámetros clínicos | ![Lang](https://img.shields.io/badge/HTML-7c3aed?style=flat) |
+| [**Hack-The-Box-CTF-s-Organizer**](https://github.com/YamidGT/Hack-The-Box-CTF-s-Organizer) | Organizador de retos CTF con dificultad, tags, notas y filtros | ![Lang](https://img.shields.io/badge/HTML-7c3aed?style=flat) |
+| [**Fondo-de-pantalla-ciclo-del-cielo**](https://github.com/YamidGT/Fondo-de-pantalla-ciclo-del-cielo) | Fondo de pantalla generativo del ciclo del cielo | ![Lang](https://img.shields.io/badge/HTML-7c3aed?style=flat) |
+| [**Procedural-Texture**](https://github.com/YamidGT/Procedural-Texture---Escenario-de-pollitos) | Reacción-difusión de Turing (Gray-Scott) en Processing aplicado a una escena 3D | ![Lang](https://img.shields.io/badge/Processing-7c3aed?style=flat) |
+| [**piano-tiles-TD-P3**](https://github.com/YamidGT/piano-tiles-TD-P3) | Juego estilo piano tiles | ![Lang](https://img.shields.io/badge/C-7c3aed?style=flat) |
 
 ---
 
